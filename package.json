@@ -1,0 +1,19 @@
+{
+  "name": "clonando_equipo",
+  "version": "1.0.0",
+  "description": "ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patronalayola/clonando_equipo.git"
+  },
+  "author": "jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patronalayola/clonando_equipo/issues"
+  },
+  "homepage": "https://github.com/patronalayola/clonando_equipo#readme"
+}
